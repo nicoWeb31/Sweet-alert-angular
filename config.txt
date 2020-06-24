@@ -1,0 +1,21 @@
+Documentation
+Our primary documentation is located at developers.themoviedb.org.
+
+Support
+If you have questions or comments about the information covered here, please create a post on our support forums.
+
+API Details
+If you'd like to edit the details of your app, click here.
+
+App Directory
+Once you have completed your application, add it to the app directory!
+
+API Key (v3 auth)
+79ff368de0388686c024708e5ee38768
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=79ff368de0388686c024708e5ee38768
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3OWZmMzY4ZGUwMzg4Njg2YzAyNDcwOGU1ZWUzODc2OCIsInN1YiI6IjVlYTQ3YmI0ZGI3MmMwMDAyNmJjYjM0OCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.UHKCxE2nPL88f51b-vVPyMcIru5qi8eTwroQJ7hxOkQ
+
+sweetalert2 : npm install --save sweetalert2 @sweetalert2/ngx-sweetalert2
+https://github.com/sweetalert2/ngx-sweetalert2
